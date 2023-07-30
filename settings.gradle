@@ -1,0 +1,8 @@
+include ':app', ':home', ':module6'
+include ':modulelib1'
+include ':modulelib2'
+include ':modulelib3'
+include ':base'
+include ':modulelib4'
+include ':modulelib5'
+include ':app2'

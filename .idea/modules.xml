@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ModularSample.iml" filepath="$PROJECT_DIR$/.idea/modules/ModularSample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ModularSample.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ModularSample.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app2/ModularSample.app2.iml" filepath="$PROJECT_DIR$/.idea/modules/app2/ModularSample.app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/base/ModularSample.base.iml" filepath="$PROJECT_DIR$/.idea/modules/base/ModularSample.base.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/home/ModularSample.home.iml" filepath="$PROJECT_DIR$/.idea/modules/home/ModularSample.home.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/module6/ModularSample.module6.iml" filepath="$PROJECT_DIR$/.idea/modules/module6/ModularSample.module6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modulelib1/ModularSample.modulelib1.iml" filepath="$PROJECT_DIR$/.idea/modules/modulelib1/ModularSample.modulelib1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modulelib2/ModularSample.modulelib2.iml" filepath="$PROJECT_DIR$/.idea/modules/modulelib2/ModularSample.modulelib2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modulelib3/ModularSample.modulelib3.iml" filepath="$PROJECT_DIR$/.idea/modules/modulelib3/ModularSample.modulelib3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modulelib4/ModularSample.modulelib4.iml" filepath="$PROJECT_DIR$/.idea/modules/modulelib4/ModularSample.modulelib4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/modulelib5/ModularSample.modulelib5.iml" filepath="$PROJECT_DIR$/.idea/modules/modulelib5/ModularSample.modulelib5.iml" />
+    </modules>
+  </component>
+</project>
